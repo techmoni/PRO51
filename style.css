@@ -1,0 +1,31 @@
+h1{
+    color: #1100ff;
+    font-style:inherit;
+}
+
+h2{
+color:#000000;
+border: solid;
+margin :50px ;
+
+}
+
+
+
+
+
+.grid{
+display: flex;
+flex-wrap :wrap;
+}
+
+
+
+
+.origamii{
+    border-color : #00ff15; 
+    border-radius:50px ;
+width : 400px;
+    font-family:fantasy  ;
+    background-color: #00ffff;
+}
